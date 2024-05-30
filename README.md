@@ -35,5 +35,4 @@ The implementation details are as follows:
 - **Accuracy**: Achieving high accuracy in tagging across diverse sentence structures.
 
 ## Results
-The POS tagging system demonstrated high accuracy and performance in tagging words with their correct parts of speech. Detailed results and performance metrics can be found in the [results](results/) directory.
-
+The POS tagging system demonstrated high accuracy and performance in tagging words with their correct parts of speech.
